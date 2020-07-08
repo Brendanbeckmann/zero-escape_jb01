@@ -1,10 +1,10 @@
 "Zero Escape: Virtue's Last Reward" is the SECOND game in a series of three games developed and published by Spike-Chunsoft, Ltd. It was originally released in February 2012 for the Nintendo 3DS and PlayStation Vita. The game was written and directed by Kotaro Uchikoshi and the music was composed by Shinji Hosoe who is also known for his work on the Tekken series, Custom Robo, Bushido Blade, and many other games.
 
-==============================================================================================================
+=================
 SPOILER ALERT
 
-Although we have endeavoured to ensure that there are no spoilers ahead, please understand that we there may be some minor spoilers ahead. It goes without saying, do not Google any terms, characters, locations, etc. you read about in this guide. You absolutely will stumble upon spoilers at some point.
-==============================================================================================================
+Although we have endeavoured to ensure that there are no major spoilers ahead, please understand that there may be some minor spoilers ahead. It goes without saying, do not Google any terms, characters, locations, etc. you read about in this guide. You absolutely will stumble upon spoilers at some point.
+=================
 
 ###################################################################
 Game Name: Zero: Escape Virtue's Last Reward
@@ -17,10 +17,16 @@ Director(s): Kotaro Uchikoshi
 Composer(s): Shinji Hosoe
 ###################################################################
 
-Plot Background:
+===================
+PLOT BACKGROUND:
+===================
 Zero Escape: Virtue's Last Reward is a sequel to "999: Nine Hours, Nine Persons, Nine Doors", a game originally developed for the Nintendo DS and is followed by the third game in the series -- Zero Escape: Zero Time Dilemma which was originally developed for the PlayStation Vita and Nintendo 3DS.
 
 In VLR, you play as a man named Sigma Klim. Information on Sigma and the rest of the cast can be found below:
+
+===================
+CAST:
+===================
 
 Sigma Klim:
 Sigma is an ordinary college student who was abducted and forced to play in the Nonary Games: Ambidex Edition. Sigma is a kind and generally honest person; though he has a habit of sometimes being flirtatious or inappropriate. He also has a thing for cat puns.
@@ -29,22 +35,35 @@ Phi:
 Phi is a young, pale skinned girl with short white hair. She's cold, curt, and often blunt. At the beginning of the game, Sigma wakes up in the same cell as Phi leading them to argue about how they both got there. When agitated she tends to use more profanity. She doesn't trust most of the cast, and is particularly careful about talking about her past.
 
 Alice:
+Alice is a tan-skinned woman of mixed French and Egyptian ethnicity. She's mysterious, focused, and highly intelligent. Instead of a shirt, she has a very unique and bold golden necklace resembling an infinity symbol that covers her bosom embedded with an aquamarine gem in the shape of an Egyptian scarab.
 
 Luna:
+Luna is an intelligent young woman with red hair and a kind personality with a medical knowledge background. She speaks softly and encourages everyone to be more peaceful and optimistic despite the very unfortunate events they find themselves in.
 
 Dio:
+Dio is a blonde-haired young man with an eccentric style of dress. He's mean, often insensitive, and selfish. He's also incredibly vulgar. It doesn't take long for the rest of the cast to grow an intense disliking for him. His motives are complex and unknown.
 
 Quark:
+Quark is a short, blonde-haired boy and the youngest member of the cast; not even yet being a teenager. He has a very pleasant demeanour, and is cheerful. Being a child, he's very curious but also maintains a clever and analytical thinking mind. He seems to have a history with Tenmyouji.
 
 Tenmyouji:
+Tenmyouji is the oldest member of the cast. He's old, grumpy, and seemingly distrusting of the rest of the cast; so he tends not to be particularly talkative about his past other than knowing Quark.
 
 Clover:
+Clover is a young pink-haired girl, who like Alice has a very eccentric way of dressing. She's hyper, upbeat, but also hides an incredibly cunning mind. She's not reliably predicatable, so one should be weary around her.
 
 K:
+K is a man in a large suit of... armor? His real name, age, and what he looks like are unknown. He wakes up in the game with a rather large case of amnesia, making him immediately suspicious to the others. He is however very intelligent and methodical; and able to spot deceit. He tends to lean towards being more serious and pragmatic.
 
 Zero III:
-An anthropromorphic rabbit AI that supervises the Nonary games. 
+Zero III, sometimes referred to as Zero Jr. is a highly advance artificial intelligence in the design of a rabbit that is responsible for, oversees, and maintains the Nonary Games. For some reason his choice of "clothing" is of Chinese origins. His personality is sadistic, psychopathic in nature and sardonic. He seems to know more than he lets on, but isn't keen to reveal a lot of details. He enjoys being sarcastic and cracking jokes about the players of the Nonary Games, occasionally references internet memes and has a particular fondness for puns about rabbits.
 
+===================
+PLOT SYNOPSIS
+===================
 
+Sigma wakes up in an elevator-like room with a girl named Phi who seems to know Sigma. After they get introductions out of the way, Zero III appears and tells them that they must escape the elevator or it will crash and kill them.
 
+Upon escaping, they find themselves in an abandoned facility called Rhizome 9. It is here that they meet 7 other individuals (Alice, Luna, Dio, Quark, Tenmyouji, Clover, and K). Zero III formally introduces himself at this point and reveals that one of the players in this game is "Zero" or the person responsible for bringing them all here and making them play the Nonary Games.
 
+The rules of the game are quite simple - each player has a bracelet on their arm and that bracelet has a number of points (BP; Bracelet Points) and a color associated with it. The color you are given limits your options and decides where within the facility you can go. The BP is essentially a life meter for the player. Any player who gets 0 BP will be killed. Any player who attempts to remove the bracelet will also be killed. At the end of each escape room challenge, you will be required to play the AB Game with your partner. It is here that you can choose to ALLY or BETRAY your partner(s). The results of this game will affect your BP afterwards. Only by acquiring 9 BP and going through the Number 9 door, can you escape the facility. Though beware, once the door is open and closed; it can never be opened again.

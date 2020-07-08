@@ -1,1 +1,3 @@
 This folder has game graphics, UI elements, character sprites, and basic (non-spoiler) information about the game that is used to aid in the development of this map project.
+
+Note that this folder does not have files that are actually a part of this project. Some of these files may be from the game and are only for reference use. They were not designed or created by the creators of this project; nor do we claim any rights to them.
