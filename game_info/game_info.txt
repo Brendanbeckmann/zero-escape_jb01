@@ -1,0 +1,1 @@
+This folder has game graphics, UI elements, character sprites, and basic (non-spoiler) information about the game that is used to aid in the development of this map project.
