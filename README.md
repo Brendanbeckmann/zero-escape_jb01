@@ -21,9 +21,9 @@ The core geometry of the map is **designed to replicate the game's original arti
 
 ## Project Credits
 
-- Kotaro Uchikoshi - For writing and directing the Zero Escape series. Obviously without him, this project wouldn't exist.
-- Spike-Chunsoft - Development team and publishers of the Zero Escape series.
+- **Kotaro Uchikoshi** - For writing and directing the Zero Escape series. Obviously without him, this project wouldn't exist.
+- **Spike-Chunsoft** - Development team and publishers of the Zero Escape series.
 
-- Echo51 - Huge amount of work on the original base geometry for the map. He's no longer affiliated with the project, but it wouldn't be right to not recognize him.
-- BrendanBeckmann - Head of the project; textures; mapping
-- TheLurrax - Music remixer
+- **Echo51** - Huge amount of work on the original base geometry for the map. He's no longer affiliated with the project, but it wouldn't be right to not recognize him.
+- **BrendanBeckmann** - Head of the project; textures; mapping
+- **TheLurrax** - Music remixer
