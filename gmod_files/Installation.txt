@@ -1,0 +1,14 @@
+## INSTALLATION DIRECTIONS
+In order for the map to work correctly during development, you MUST have these folders installed into the ROOT of your **second** Garry's Mod (Typically DRIVE\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod) folder.
+
+**download\models\ar_lunacy**
+
+**materials\ar_lunacy**
+**materials\nature**
+**materials\skybox**
+
+## EXAMPLE
+If you followed the above instructions correctly, you should be able to find the files below:
+
+**\GarrysMod\garrysmod\materials\skybox\sky_lunacybk.vmt**
+**\GarrysMod\garrysmod\materials\skybox\sky_lunacybk.vtf**
