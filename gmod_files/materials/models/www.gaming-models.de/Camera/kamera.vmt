@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture models/www.gaming-models.de/Camera/kamera
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.05 .05 .05]"
+}

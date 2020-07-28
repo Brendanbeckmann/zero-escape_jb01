@@ -1,0 +1,14 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "jbze01/props/chrom_Door_StatusAnim"
+	"$surfaceprop" "Computer"
+"Proxies" 
+{ 
+	"ToggleTexture" 
+{ 
+	"toggleTextureVar" "$basetexture" 
+	"toggleTextureFrameNumVar" "$frame" 
+	"toggleTextureShouldWrap" "0" 
+}
+}
+}

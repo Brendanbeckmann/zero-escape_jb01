@@ -1,0 +1,1397 @@
+versioninfo
+{
+	"editorversion" "400"
+	"editorbuild" "8538"
+	"mapversion" "5"
+	"formatversion" "100"
+	"prefab" "0"
+}
+visgroups
+{
+}
+viewsettings
+{
+	"bSnapToGrid" "0"
+	"bShowGrid" "1"
+	"bShowLogicalGrid" "0"
+	"nGridSpacing" "1"
+	"bShow3DGrid" "0"
+}
+world
+{
+	"id" "1"
+	"mapversion" "5"
+	"classname" "worldspawn"
+	"detailmaterial" "detail/detailsprites"
+	"detailvbsp" "detail.vbsp"
+	"maxpropscreenwidth" "-1"
+	"skyname" "sky_day01_01"
+}
+entity
+{
+	"id" "167"
+	"classname" "propper_model"
+	"autocenter" "0"
+	"concave" "1"
+	"disp_nowarp" "0"
+	"mass" "0.0"
+	"mat_nonormal" "0"
+	"materialpath" "models/props/"
+	"modelname" "jbze01/props/zevlr_buttonCasing"
+	"origin" "0 0 -132.5"
+	"physmodel" "zevlr_buttonCasing"
+	"scale" "0.1"
+	"smoothangle" "45"
+	"smoothing" "1"
+	"snaptogrid" "0"
+	"sourcefolder" "c:/propsource"
+	"surfaceprop" "solidmetal"
+	"targetname" "zevlr_buttonCasing"
+	"weldvertices" ".01"
+	solid
+	{
+		"id" "86"
+		side
+		{
+			"id" "167"
+			"plane" "(0 -148 127) (-40 -144 127) (-40 -53 127)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[1 0 0 128] 1.09375"
+			"vaxis" "[0 -1 0 120.686] 1.09375"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "166"
+			"plane" "(0 -148 79) (-40 -53 79) (-40 -144 79)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 1.09375"
+			"vaxis" "[0 -1 0 57] 1.09375"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "165"
+			"plane" "(-40 -53 79) (0 -148 79) (0 -148 127)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[0 1 0 135.314] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "164"
+			"plane" "(0 -148 79) (-40 -144 79) (-40 -144 127)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[1 0 0 128] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "163"
+			"plane" "(-40 -144 79) (-40 -53 79) (-40 -53 127)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[0 1 0 135.314] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "100"
+		side
+		{
+			"id" "172"
+			"plane" "(-40 -57 127) (0 -70 127) (0 -148 127)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[1 0 0 128] 1.09375"
+			"vaxis" "[0 -1 0 120.686] 1.09375"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "171"
+			"plane" "(-40 -57 79) (0 -148 79) (0 -70 79)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 1.09375"
+			"vaxis" "[0 -1 0 57] 1.09375"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "170"
+			"plane" "(-40 -57 79) (-40 -57 127) (0 -148 127)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[0 1 0 135.314] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "169"
+			"plane" "(0 -70 79) (0 -70 127) (-40 -57 127)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[1 0 0 128] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "168"
+			"plane" "(0 -148 79) (0 -148 127) (0 -70 127)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[0 1 0 135.314] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "92"
+		side
+		{
+			"id" "177"
+			"plane" "(0 -148 127) (0 -70 127) (40 -53 127)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[1 0 0 128] 1.09375"
+			"vaxis" "[0 -1 0 120.686] 1.09375"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "176"
+			"plane" "(0 -70 79) (0 -148 79) (40 -53 79)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 1.09375"
+			"vaxis" "[0 -1 0 57] 1.09375"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "175"
+			"plane" "(0 -148 127) (40 -53 127) (40 -53 79)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[0 1 0 135.314] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "174"
+			"plane" "(40 -53 127) (0 -70 127) (0 -70 79)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[1 0 0 128] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "173"
+			"plane" "(0 -70 127) (0 -148 127) (0 -148 79)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[0 1 0 135.314] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "80"
+		side
+		{
+			"id" "182"
+			"plane" "(40 -144 127) (0 -148 127) (40 -53 127)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[1 0 0 128] 1.09375"
+			"vaxis" "[0 -1 0 120.686] 1.09375"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "181"
+			"plane" "(40 -53 79) (0 -148 79) (40 -144 79)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 1.09375"
+			"vaxis" "[0 -1 0 57] 1.09375"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "180"
+			"plane" "(0 -148 127) (0 -148 79) (40 -53 79)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[1 0 0 128] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "179"
+			"plane" "(40 -144 127) (40 -144 79) (0 -148 79)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[1 0 0 128] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "178"
+			"plane" "(40 -53 127) (40 -53 79) (40 -144 79)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[0 1 0 135.314] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "178"
+		side
+		{
+			"id" "193"
+			"plane" "(-18 68 74) (-35 61 74) (-49 49 74)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 1.09375"
+			"vaxis" "[0 -1 0 57] 1.09375"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "194"
+			"plane" "(0 70 152) (18 68 152) (35 61 152)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[1 0 0 128] 1.09375"
+			"vaxis" "[0 -1 0 120.686] 1.09375"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "195"
+			"plane" "(0 70 74) (18 68 74) (18 68 152)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[1 0 0 128] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "196"
+			"plane" "(18 68 74) (35 61 74) (35 61 152)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[1 0 0 128] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "197"
+			"plane" "(35 61 74) (49 49 74) (49 49 152)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[1 0 0 128] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "198"
+			"plane" "(49 49 74) (61 35 74) (61 35 152)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[0 1 0 135.314] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "199"
+			"plane" "(61 35 74) (68 18 74) (68 18 152)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[0 1 0 135.314] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "200"
+			"plane" "(68 18 74) (70 0 74) (70 0 152)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[0 1 0 135.314] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "201"
+			"plane" "(70 0 74) (68 -18 74) (68 -18 152)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[0 1 0 135.314] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "202"
+			"plane" "(68 -18 74) (61 -35 74) (61 -35 152)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[0 1 0 135.314] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "203"
+			"plane" "(61 -35 74) (49 -49 74) (49 -49 152)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[0 1 0 135.314] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "204"
+			"plane" "(49 -49 74) (35 -61 74) (35 -61 152)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[1 0 0 128] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "205"
+			"plane" "(35 -61 74) (18 -68 74) (18 -68 152)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[1 0 0 128] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "206"
+			"plane" "(18 -68 74) (0 -70 74) (0 -70 152)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[1 0 0 128] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "207"
+			"plane" "(0 -70 74) (-18 -68 74) (-18 -68 152)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[1 0 0 128] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "208"
+			"plane" "(-18 -68 74) (-35 -61 74) (-35 -61 152)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[1 0 0 128] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "209"
+			"plane" "(-35 -61 74) (-49 -49 74) (-49 -49 152)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[1 0 0 128] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "210"
+			"plane" "(-49 -49 74) (-61 -35 74) (-61 -35 152)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[0 1 0 135.314] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "211"
+			"plane" "(-61 -35 74) (-68 -18 74) (-68 -18 152)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[0 1 0 135.314] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "212"
+			"plane" "(-68 -18 74) (-70 0 74) (-70 0 152)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[0 1 0 135.314] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "213"
+			"plane" "(-70 0 74) (-68 18 74) (-68 18 152)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[0 1 0 135.314] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "214"
+			"plane" "(-68 18 74) (-61 35 74) (-61 35 152)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[0 1 0 135.314] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "215"
+			"plane" "(-61 35 74) (-49 49 74) (-49 49 152)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[0 1 0 135.314] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "216"
+			"plane" "(-49 49 74) (-35 61 74) (-35 61 152)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[1 0 0 128] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "217"
+			"plane" "(-35 61 74) (-18 68 74) (-18 68 152)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[1 0 0 128] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "218"
+			"plane" "(-18 68 74) (0 70 74) (0 70 152)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[1 0 0 128] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 134 171"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "182"
+		side
+		{
+			"id" "219"
+			"plane" "(-27 129 -417) (-54 121 -417) (-78 108 -417)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 1.09375"
+			"vaxis" "[0 -1 0 57] 1.09375"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "220"
+			"plane" "(0 132 63) (27 129 63) (54 121 63)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 1.09375"
+			"vaxis" "[0 -1 0 57] 1.09375"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "221"
+			"plane" "(0 132 -417) (27 129 -417) (27 129 63)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[1 0 0 128] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "222"
+			"plane" "(27 129 -417) (54 121 -417) (54 121 63)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[1 0 0 128] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "223"
+			"plane" "(54 121 -417) (78 108 -417) (78 108 63)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[1 0 0 128] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "224"
+			"plane" "(78 108 -417) (99 91 -417) (99 91 63)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[1 0 0 128] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "225"
+			"plane" "(99 91 -417) (116 70 -417) (116 70 63)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[0 1 0 135.314] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "226"
+			"plane" "(116 70 -417) (129 46 -417) (129 46 63)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[0 1 0 135.314] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "227"
+			"plane" "(129 46 -417) (137 19 -417) (137 19 63)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[0 1 0 135.314] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "228"
+			"plane" "(137 19 -417) (140 -8 -417) (140 -8 63)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[0 1 0 135.314] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "229"
+			"plane" "(140 -8 -417) (137 -35 -417) (137 -35 63)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[0 1 0 135.314] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "230"
+			"plane" "(137 -35 -417) (129 -62 -417) (129 -62 63)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[0 1 0 135.314] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "231"
+			"plane" "(129 -62 -417) (116 -86 -417) (116 -86 63)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[0 1 0 135.314] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "232"
+			"plane" "(116 -86 -417) (99 -107 -417) (99 -107 63)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[0 1 0 135.314] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "233"
+			"plane" "(99 -107 -417) (78 -124 -417) (78 -124 63)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[1 0 0 128] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "234"
+			"plane" "(78 -124 -417) (54 -137 -417) (54 -137 63)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[1 0 0 128] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "235"
+			"plane" "(54 -137 -417) (27 -145 -417) (27 -145 63)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[1 0 0 128] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "236"
+			"plane" "(27 -145 -417) (0 -148 -417) (0 -148 63)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[1 0 0 128] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "237"
+			"plane" "(0 -148 -417) (-27 -145 -417) (-27 -145 63)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[1 0 0 128] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "238"
+			"plane" "(-27 -145 -417) (-54 -137 -417) (-54 -137 63)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[1 0 0 128] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "239"
+			"plane" "(-54 -137 -417) (-78 -124 -417) (-78 -124 63)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[1 0 0 128] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "240"
+			"plane" "(-78 -124 -417) (-99 -107 -417) (-99 -107 63)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[1 0 0 128] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "241"
+			"plane" "(-99 -107 -417) (-116 -86 -417) (-116 -86 63)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[0 1 0 135.314] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "242"
+			"plane" "(-116 -86 -417) (-129 -62 -417) (-129 -62 63)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[0 1 0 135.314] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "243"
+			"plane" "(-129 -62 -417) (-137 -35 -417) (-137 -35 63)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[0 1 0 135.314] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "244"
+			"plane" "(-137 -35 -417) (-140 -8 -417) (-140 -8 63)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[0 1 0 135.314] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "245"
+			"plane" "(-140 -8 -417) (-137 19 -417) (-137 19 63)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[0 1 0 135.314] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "246"
+			"plane" "(-137 19 -417) (-129 46 -417) (-129 46 63)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[0 1 0 135.314] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "247"
+			"plane" "(-129 46 -417) (-116 70 -417) (-116 70 63)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[0 1 0 135.314] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "248"
+			"plane" "(-116 70 -417) (-99 91 -417) (-99 91 63)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[0 1 0 135.314] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "249"
+			"plane" "(-99 91 -417) (-78 108 -417) (-78 108 63)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[1 0 0 128] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "250"
+			"plane" "(-78 108 -417) (-54 121 -417) (-54 121 63)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[1 0 0 128] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "251"
+			"plane" "(-54 121 -417) (-27 129 -417) (-27 129 63)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[1 0 0 128] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "252"
+			"plane" "(-27 129 -417) (0 132 -417) (0 132 63)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[1 0 0 128] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 171 232"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "185"
+		side
+		{
+			"id" "320"
+			"plane" "(-27 129 63) (-54 121 63) (-78 108 63)"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 0] 1.09375"
+			"vaxis" "[0 -1 0 57] 1.09375"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "319"
+			"plane" "(0 132 79) (27 129 79) (54 121 79)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[1 0 0 128] 1.09375"
+			"vaxis" "[0 -1 0 120.686] 1.09375"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "318"
+			"plane" "(0 132 63) (27 129 63) (27 129 79)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[1 0 0 128] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "317"
+			"plane" "(27 129 63) (54 121 63) (54 121 79)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[1 0 0 128] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "316"
+			"plane" "(54 121 63) (78 108 63) (78 108 79)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[1 0 0 128] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "315"
+			"plane" "(78 108 63) (99 91 63) (99 91 79)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[1 0 0 128] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "314"
+			"plane" "(99 91 63) (116 70 63) (116 70 79)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[0 1 0 135.314] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "313"
+			"plane" "(116 70 63) (129 46 63) (129 46 79)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[0 1 0 135.314] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "312"
+			"plane" "(129 46 63) (137 19 63) (137 19 79)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[0 1 0 135.314] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "311"
+			"plane" "(137 19 63) (140 -8 63) (140 -8 79)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[0 1 0 135.314] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "310"
+			"plane" "(140 -8 63) (137 -35 63) (137 -35 79)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[0 1 0 135.314] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "309"
+			"plane" "(137 -35 63) (129 -62 63) (129 -62 79)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[0 1 0 135.314] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "308"
+			"plane" "(129 -62 63) (116 -86 63) (116 -86 79)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[0 1 0 135.314] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "307"
+			"plane" "(116 -86 63) (99 -107 63) (99 -107 79)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[0 1 0 135.314] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "306"
+			"plane" "(99 -107 63) (78 -124 63) (78 -124 79)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[1 0 0 128] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "305"
+			"plane" "(78 -124 63) (54 -137 63) (54 -137 79)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[1 0 0 128] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "304"
+			"plane" "(54 -137 63) (27 -145 63) (27 -145 79)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[1 0 0 128] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "303"
+			"plane" "(27 -145 63) (0 -148 63) (0 -148 79)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[1 0 0 128] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "302"
+			"plane" "(0 -148 63) (-27 -145 63) (-27 -145 79)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[1 0 0 128] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "301"
+			"plane" "(-27 -145 63) (-54 -137 63) (-54 -137 79)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[1 0 0 128] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "300"
+			"plane" "(-54 -137 63) (-78 -124 63) (-78 -124 79)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[1 0 0 128] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "299"
+			"plane" "(-78 -124 63) (-99 -107 63) (-99 -107 79)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[1 0 0 128] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "298"
+			"plane" "(-99 -107 63) (-116 -86 63) (-116 -86 79)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[0 1 0 135.314] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "297"
+			"plane" "(-116 -86 63) (-129 -62 63) (-129 -62 79)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[0 1 0 135.314] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "296"
+			"plane" "(-129 -62 63) (-137 -35 63) (-137 -35 79)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[0 1 0 135.314] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "295"
+			"plane" "(-137 -35 63) (-140 -8 63) (-140 -8 79)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[0 1 0 135.314] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "294"
+			"plane" "(-140 -8 63) (-137 19 63) (-137 19 79)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[0 1 0 135.314] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "293"
+			"plane" "(-137 19 63) (-129 46 63) (-129 46 79)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[0 1 0 135.314] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "292"
+			"plane" "(-129 46 63) (-116 70 63) (-116 70 79)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[0 1 0 135.314] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "291"
+			"plane" "(-116 70 63) (-99 91 63) (-99 91 79)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[0 1 0 135.314] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "290"
+			"plane" "(-99 91 63) (-78 108 63) (-78 108 79)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[1 0 0 128] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "289"
+			"plane" "(-78 108 63) (-54 121 63) (-54 121 79)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[1 0 0 128] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "288"
+			"plane" "(-54 121 63) (-27 129 63) (-27 129 79)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[1 0 0 128] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "287"
+			"plane" "(-27 129 63) (0 132 63) (0 132 79)"
+			"material" "JBZE01/PROPS/BUTTONCASING_METALFINISH"
+			"uaxis" "[1 0 0 128] 1.09375"
+			"vaxis" "[0 0 -1 68.3866] 2.22266"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 171 232"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 8000]"
+	}
+}
+cameras
+{
+	"activecamera" "0"
+	camera
+	{
+		"position" "[88.8902 -365.477 341.825]"
+		"look" "[88.6236 -364.869 341.077]"
+	}
+}
+cordon
+{
+	"mins" "(-1024 -1024 -1024)"
+	"maxs" "(1024 1024 1024)"
+	"active" "0"
+}

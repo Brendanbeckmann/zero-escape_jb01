@@ -1,0 +1,1 @@
+When installing this map while in development, Garry's Mod must be able to locate the textures necessary for props and the map itself. These files are the ones with extensions VMT and VTF. The original source PNG files are the original textures and are not useful to Garry's Mod. They are archived in a ZIP file in this folder for ease of use.
