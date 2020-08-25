@@ -7,7 +7,7 @@ The core geometry of the map is **designed to replicate the game's original arti
 ## Map Features
 
 - Support for up to 32 prisoners.
-- Fully featured and designed two story prison map based on the "Rhizome 9" location from Virtue's Last Reward.
+- Fully featured and designed two story prison map based on the "Rhizome 9" location from Zero Escape: Virtue's Last Reward.
 
 ## Project Directory Structure
 
@@ -15,11 +15,19 @@ The core geometry of the map is **designed to replicate the game's original arti
 
 - **\game_info\·** - This folder contains graphics and information designed to help give you background knowledge of the game for the purposes of the project. There are to be NO MAJOR SPOILERS in this folder.
 
-- **\gmod_files\·** - This folder contains dependent files and folder structures that should be dropped into your second Garry's Mod folder. For further information, please read "Installation.txt"
+- **\gmod_files\·** - This folder contains dependent files and folder structures that should be dropped into your second Garry's Mod folder. For further information, please read "Installation.txt". These files will no longer be necessary, once a finished and packed version of the BSP exists.
 
-- **\jb_zeroescape_2013\·** - This folder contains the original, largely unfinished and barely working map that was started back in 2013 for this project. It will not be fixed and is here mostly for archival purposes.
+- **\jb_zeroescape01\.** - This folder contains the current version of the jb_zeroescape map.
 
-- **\zero-escape_jb01_2020\·** - This folder contains all the files for the current version of the project.
+- **\propper_output\.** - This folder contains the files that are output by Propper. Their importance is not particularly high unless you know how to use SMD files.
+
+- **\props_hammer\.** - This folder contains Hammer-compatible props used for this map. They can be viewed and modified in Hammer itself. They're intended to only be used in Hammer following a conversion process through Propper and StudioMDL.
+
+## Removed Structures
+
+- **\jb_zeroescape_2013\·** - This folder contained the original 2013 version of the map. It has since been removed from the repository.
+
+- **\zero-escape_jb01_2020\·** - This folder contained the files for the "fixed" 2020 version of the 2013 map. It has since been removed from the repository following the complete redrawing of the entire map thus far.
 
 ## Project Credits
 
