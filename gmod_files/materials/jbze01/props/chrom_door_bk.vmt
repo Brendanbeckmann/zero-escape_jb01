@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "jbze01/props/chrom_door_bk"
+	"$surfaceprop" "Metal"
+	"$translucent" 1
+}

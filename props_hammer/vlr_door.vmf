@@ -1,0 +1,217 @@
+versioninfo
+{
+	"editorversion" "400"
+	"editorbuild" "8538"
+	"mapversion" "16"
+	"formatversion" "100"
+	"prefab" "0"
+}
+visgroups
+{
+}
+viewsettings
+{
+	"bSnapToGrid" "1"
+	"bShowGrid" "1"
+	"bShowLogicalGrid" "0"
+	"nGridSpacing" "1"
+	"bShow3DGrid" "0"
+}
+world
+{
+	"id" "1"
+	"mapversion" "16"
+	"classname" "worldspawn"
+	"detailmaterial" "detail/detailsprites"
+	"detailvbsp" "detail.vbsp"
+	"maxpropscreenwidth" "-1"
+	"skyname" "sky_day01_01"
+}
+entity
+{
+	"id" "468"
+	"classname" "propper_model"
+	"autocenter" "0"
+	"concave" "1"
+	"disp_nowarp" "0"
+	"mass" "0.0"
+	"mat_nonormal" "0"
+	"materialpath" "jbze01/props/"
+	"modelname" "jbze01/props/zevlr_Door"
+	"origin" "38.84 48 -62"
+	"physmodel" "zevlr_Door"
+	"scale" "1.0"
+	"smoothangle" "45"
+	"smoothing" "1"
+	"snaptogrid" "0"
+	"sourcefolder" "c:/propsource"
+	"surfaceprop" "metal"
+	"targetname" "zevlr_Door"
+	"weldvertices" ".01"
+	solid
+	{
+		"id" "457"
+		side
+		{
+			"id" "27678"
+			"plane" "(59 44 -8) (21 44 -8) (21 52 -8)"
+			"material" "JBZE01/PROPS/CHROM_DOOR_CY_TRIM"
+			"uaxis" "[1 0 0 57.2632] 0.296875"
+			"vaxis" "[0 -1 0 -16] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "27677"
+			"plane" "(72 44 -116) (72 52 -116) (8 52 -116)"
+			"material" "JBZE01/PROPS/CHROM_DOOR_CY_TRIM"
+			"uaxis" "[1 0 0 13.3333] 0.75"
+			"vaxis" "[0 -1 0 -16] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "27676"
+			"plane" "(8 52 -19) (8 44 -19) (8 44 -116)"
+			"material" "JBZE01/PROPS/CHROM_DOOR_CY_TRIM"
+			"uaxis" "[0 0 1 -102.928] 0.757813"
+			"vaxis" "[0 1 0 16] 0.25"
+			"rotation" "90"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "27675"
+			"plane" "(72 44 -19) (72 52 -19) (72 52 -116)"
+			"material" "JBZE01/PROPS/CHROM_DOOR_CY_TRIM"
+			"uaxis" "[0 1 0 32] 0.125"
+			"vaxis" "[0 0 -1 51.8967] 1.51563"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "27674"
+			"plane" "(72 52 -19) (59 52 -8) (21 52 -8)"
+			"material" "JBZE01/PROPS/CHROM_DOOR_CY"
+			"uaxis" "[1 0 0 -64] 0.125"
+			"vaxis" "[0 0 -1 947.923] 0.105469"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "27673"
+			"plane" "(8 44 -19) (21 44 -8) (59 44 -8)"
+			"material" "JBZE01/PROPS/CHROM_DOOR_CY"
+			"uaxis" "[1 0 0 -64] 0.125"
+			"vaxis" "[0 0 -1 948.148] 0.105469"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "27672"
+			"plane" "(21 52 -8) (21 44 -8) (8 44 -19)"
+			"material" "JBZE01/PROPS/CHROM_DOOR_CY_TRIM"
+			"uaxis" "[1 0 0 49.2308] 0.101563"
+			"vaxis" "[0 -1 0 -16] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "27671"
+			"plane" "(59 44 -8) (59 52 -8) (72 52 -19)"
+			"material" "JBZE01/PROPS/CHROM_DOOR_CY_TRIM"
+			"uaxis" "[1 0 0 59.0769] 0.101563"
+			"vaxis" "[0 -1 0 -16] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 9500]"
+	}
+}
+entity
+{
+	"id" "499"
+	"classname" "propper_skins"
+	"mat0" "jbze01/props/chrom_door_cy"
+	"mat1" "jbze01/props/chrom_door_ma"
+	"mat2" "jbze01/props/chrom_door_ye"
+	"mat3" "jbze01/props/chrom_door_re"
+	"mat4" "jbze01/props/chrom_door_bl"
+	"mat5" "jbze01/props/chrom_door_gr"
+	"mat6" "jbze01/props/chrom_door_wh"
+	"mat7" "jbze01/props/chrom_door_bk"
+	"mat8" "jbze01/props/chrom_door_cy"
+	"my_model" "zevlr_Door"
+	"origin" "88 48 -82"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 10000]"
+	}
+}
+entity
+{
+	"id" "502"
+	"classname" "propper_skins"
+	"mat0" "jbze01/props/chrom_door_cy_trim"
+	"mat1" "jbze01/props/chrom_door_ma_trim"
+	"mat2" "jbze01/props/chrom_door_ye_trim"
+	"mat3" "jbze01/props/chrom_door_re_trim"
+	"mat4" "jbze01/props/chrom_door_bl_trim"
+	"mat5" "jbze01/props/chrom_door_gr_trim"
+	"mat6" "jbze01/props/chrom_door_wh_trim"
+	"mat7" "jbze01/props/chrom_door_bk_trim"
+	"mat8" "jbze01/props/chrom_door_cy_trim"
+	"my_model" "zevlr_Door"
+	"origin" "112 48 -82"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 10000]"
+	}
+}
+cameras
+{
+	"activecamera" "0"
+	camera
+	{
+		"position" "[27.112 -250.34 -24.6084]"
+		"look" "[27.1105 -249.339 -24.596]"
+	}
+}
+cordon
+{
+	"mins" "(-1024 -1024 -1024)"
+	"maxs" "(1024 1024 1024)"
+	"active" "0"
+}

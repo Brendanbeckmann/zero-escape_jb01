@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "jbze01/props/chrom_door_gr"
+	"$surfaceprop" "metal"
+	"$translucent" 1
+}
