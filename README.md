@@ -17,11 +17,11 @@ The core geometry of the map is **designed to replicate the game's original arti
 
 - **\gmod_files\·** - This folder contains dependent files and folder structures that should be dropped into your second Garry's Mod folder. For further information, please read "Installation.txt". These files will no longer be necessary, once a finished and packed version of the BSP exists.
 
-- **\jb_zeroescape01\.** - This folder contains the current version of the jb_zeroescape map.
+- **\jb_zeroescape01\·** - This folder contains the current version of the jb_zeroescape map.
 
-- **\propper_output\.** - This folder contains the files that are output by Propper. Their importance is not particularly high unless you know how to use SMD files.
+- **\propper_output\·** - This folder contains the files that are output by Propper. Their importance is not particularly high unless you know how to use SMD files.
 
-- **\props_hammer\.** - This folder contains Hammer-compatible props used for this map. They can be viewed and modified in Hammer itself. They're intended to only be used in Hammer following a conversion process through Propper and StudioMDL.
+- **\props_hammer\·** - This folder contains Hammer-compatible props used for this map. They can be viewed and modified in Hammer itself. They're intended to only be used in Hammer following a conversion process through Propper and StudioMDL.
 
 ## Removed Structures
 
